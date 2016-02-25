@@ -11,3 +11,5 @@ this is to check if there is any .DS files
 This is to check the git diff command
 
 I add a new line. 
+
+This is cool, and Git tracks changes.
