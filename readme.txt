@@ -12,4 +12,4 @@ This is to check the git diff command
 
 I add a new line. 
 
-This is cool, and Git tracks changes.
+This is cool, and Git tracks changes of files.
